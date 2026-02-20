@@ -4,8 +4,8 @@
 > This repository provides **demo videos** and a **technical summary** of my contributions during my internship.
 
 ## Demo Videos
-- Demo 1 – WildGuide: <PASTE_LINK_HERE>
-- Demo 2 – WildReport: <PASTE_LINK_HERE>
+- Demo 1 – WildGuide: <https://drive.google.com/file/d/16BJrkWWnQICHlZTk5pekbiZ8XVZpzWP0/view?usp=drive_link>
+- Demo 2 – WildReport: <(https://drive.google.com/file/d/1mn0mK9uUipVnGuxzDVWCAn7-Ui5DPS-K/view?usp=drive_link)>
 
 ## Context
 During my internship semester, I worked on improving a Flutter/Dart mobile application used for wildlife monitoring and reporting. The goal was to improve **user experience**, **feature completeness**, and **release readiness** based on testing results and stakeholder feedback.
