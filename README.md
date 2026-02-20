@@ -65,9 +65,8 @@ Main responsibilities:
 - Produced handover/advisor summary with delivered features, technical decisions, and next steps
 
 ## Evidence (Optional)
-- Testing Report (sanitized): ./docs/<file>.pdf
-- Store Deployment Requirements (sanitized): ./docs/<file>.pdf
-- Handover / Advisor Summary (sanitized): ./docs/<file>.pdf
+- Testing Report: ./docs/
+- Store Deployment Requirements: ./docs/
 - Screenshots / diagrams: ./assets/
 
 ## What I Can’t Share
