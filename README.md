@@ -57,7 +57,7 @@ Main responsibilities:
 - Conducted internal user tests with stakeholders using paper test cases (two rounds, improved results)
 - Performed offline tracking storage capacity/performance tests
 - Set up mock location to reliably test geo-related features
-- Documented testing approach and results (see Evidence section)
+- Documented testing approach and results
 
 ### 6) Release Readiness & Handover
 - Prepared store submission/compliance checklist (permissions, privacy policy, data safety, account deletion URL)
